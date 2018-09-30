@@ -1,0 +1,5 @@
+#This section creates the class that will host the form
+name: Drupal Custom Form
+description: My custom form
+type: module
+core: 8.x

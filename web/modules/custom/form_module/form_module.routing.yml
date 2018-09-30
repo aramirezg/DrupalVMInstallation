@@ -1,0 +1,10 @@
+form_module.simple_form:
+    path: 'simple-form'
+    defaults:
+     _form: '\Drupal\form_module\Form\Form'
+     _title: 'My first form'
+    requirements:
+     _permission: 'access content'
+        
+     
+    
